@@ -17,9 +17,9 @@ I run **SprintZero Studio**, a one-person AI-powered dev studio that ships start
 
 ### 🛠 Stack
 
-**Core:** Next.js (App Router) · TypeScript · Supabase (Postgres · Auth · RLS · Realtime · Storage) · Tailwind · Vercel
-**AI:** Claude / Anthropic API · AssemblyAI · Exa
-**Infra & automation:** n8n · DigitalOcean · Cloudflare · Playwright
+- **Core:** Next.js (App Router) · TypeScript · Supabase (Postgres · Auth · RLS · Realtime · Storage) · Tailwind · Vercel
+- **AI:** Claude / Anthropic API · AssemblyAI · Exa
+- **Infra & automation:** n8n · DigitalOcean · Cloudflare · Playwright
 
 I build AI-native products. Cursor/ClaudeCode is my primary tool, and I care about the parts that matter under load: grounded AI output, row-level security enforced at the database, and architecture that scales without a rewrite.
 
