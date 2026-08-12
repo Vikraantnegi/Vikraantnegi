@@ -36,4 +36,4 @@ Solo, end to end. Architecture, security, and code quality are mine. AI accelera
 - **Portfolio:** [@vikraantnegi](https://vikraantnegi.vercel.app)
 - **Studio:** [sprint0.trymurmur.studio](https://sprint0.trymurmur.studio)
 
-📫 Open to select client work — [book a call](https://sprint0.trymurmur.studio/book)
+📫 Open to select client work: [book a call](https://sprint0.trymurmur.studio/book)
