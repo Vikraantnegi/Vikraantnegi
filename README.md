@@ -1,6 +1,6 @@
 # Hi, I'm Vikrant 👋
 
-Full-stack / AI engineer. **SWE II at Atlassian**, ex**CRED**. I architect and ship production AI products end to end — frontend, backend, data, deployment — solo.
+Full-stack / AI engineer. **SWE II at Atlassian**, ex**CRED**. I architect and ship production AI products end to end, frontend, backend, data, deployment, solo.
 
 I run **SprintZero Studio**, a one-person AI-powered dev studio that ships startup-grade MVPs in 72 hours, powered by my own pipeline, **Murmur**.
 
