@@ -11,7 +11,7 @@ I run **SprintZero Studio**, a one-person AI-powered dev studio that ships start
 - **[Murmur](https://trymurmur.studio)**: An AI pipeline that turns a spoken idea into a complete product foundation (PRD, competitor research, populated Jira board, brand system) in ~6 minutes. Next.js · Supabase (RLS) · Claude API · n8n. Built and deployed solo.
 - **[Propel](https://trypropel.ai)**: An AI marketing CRM, built end to end.
 - **[SprintZero](https://sprint0.trymurmur.studio)**: 72-hour MVP studio, running on Murmur as its engine.
-- **Listener(https://app.trymurmur.studio)**: The installable PWA client for Murmur (iOS + Android).
+- **[Listener](https://app.trymurmur.studio)**: The installable PWA client for Murmur (iOS + Android).
 
 ---
 
